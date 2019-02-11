@@ -1,2 +1,2 @@
 # web-caesar
-Web Caesar project for LC101
+Caesar Cipher
